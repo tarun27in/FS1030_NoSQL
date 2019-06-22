@@ -3,7 +3,7 @@ NoSQL + REST API Example
 
 Good example of using MongoDB + NodeJS integration
 
-Credits: Atauba Prince, https://www.callicoder.com
+Credits:  https://www.callicoder.com
 
 
 ## Commands
